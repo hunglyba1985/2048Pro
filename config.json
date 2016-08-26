@@ -4,7 +4,9 @@
   "forceUpdate":"Yes",
   "forceUpdateMessage":"I glad to tell you that we have new version with many new features and experience. Let update now!!!",
   "forceUpdateLink":"link app",
+  "otherApp":"No",
   "otherAppName":"name",
+  "otherAppMessage":"We glad to introduce you an amazing new app. "
   "otherAppImage":"linkImage",
   "otherAppUrl":"linkApp"
 }
